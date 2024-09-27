@@ -11,7 +11,16 @@ This roadmap provides a structured path for beginners to learn AI Product Manage
 
 **Resources:**
 - Book: "Inspired: How to Create Tech Products Customers Love" by Marty Cagan
-- Course: Coursera's "Digital Product Management Specialization" by University of Virginia
+- Book: "The Lean Product Playbook" by Dan Olsen
+- Course: "Digital Product Management Specialization" by University of Virginia
+- Professional Certificate: "IBM AI Product Manager Professional Certificate" Coursera
+- Professional Certificate: "IBM Product Manager Professional Certificate" Coursera
+- Specialization: "AI Product Management Specialization" by Duke University
+- Specialization: "User Experience Research and Design Specialization" by University of Michigan
+- Professional Certificate: Google UX Design Professional Certificate Coursera
+- Specialization: Agile Development Specialization Coursera
+- Product Ideation, Design, and Management Specialization
+  
 
 ### 1.2 Introduction to AI and Machine Learning
 - AI/ML concepts and terminology
@@ -21,7 +30,20 @@ This roadmap provides a structured path for beginners to learn AI Product Manage
 **Resources:**
 - Book: "AI Crash Course" by Hadelin de Ponteves
 - Course: Coursera's "AI For Everyone" by Andrew Ng
-- Teeest
+- IBM AI Developer Professional Certificate Coursera
+- Machine Learning Specialization
+- Deep Learning Specialization
+- Prompt Engineering Specialization
+- Mathematics for Machine Learning Specialization
+- IBM AI Engineering Professional Certificate
+- Machine Learning in Production
+- Generative AI Fundamentals Specialization
+- Machine Learning Specialization by University of Washington
+- Data Engineering, Big Data, and Machine Learning on GCP Specialization
+- Mathematics for Machine Learning and Data Science Specialization
+- Generative Adversarial Networks (GANs) Specialization
+- TensorFlow: Data and Deployment Specialization
+
 
 ### 1.3 Business Strategy for AI
 - AI transformation of industries
@@ -31,13 +53,23 @@ This roadmap provides a structured path for beginners to learn AI Product Manage
 **Resources:**
 - Book: "The AI-First Company" by Ash Fontana
 - Course: INSEAD's "AI Strategy for Business Leaders" on Coursera
+- Business Strategy Specialization
+- Google Business Intelligence Professional Certificate
+- Foundational Finance for Strategic Decision Making Specialization
+- Data Analysis and Presentation Skills: the PwC Approach Specialization
+- Business and Financial Modeling Specialization
+- Strategic Leadership and Management Specialization
+- AI For Business Specialization
+- Business Foundations Specialization
+- Business Analytics Specialization
+- IBM AI Foundations for Business Specialization
 
 ## 2. AI Product Strategy
 
 ### 2.1 AI Product Vision and Roadmapping
 - Defining AI product vision
 - AI capability assessment
-- Long-term AI product roadmapping
+- Long-term AI product road mapping
 
 ### 2.2 AI Use Case Identification
 - Problem framing for AI solutions
@@ -73,6 +105,8 @@ This roadmap provides a structured path for beginners to learn AI Product Manage
 **Resources:**
 - Book: "Designing Data-Intensive Applications" by Martin Kleppmann
 - Course: "Data Management and Data Systems" by University of Colorado on Coursera
+- DeepLearning.AI Data Engineering Professional Certificate
+- Google Data Analytics Professional Certificate
 
 ## 4. AI Development Process
 
