@@ -20,6 +20,8 @@ This roadmap provides a structured path for beginners to learn AI Product Manage
 - Professional Certificate: Google UX Design Professional Certificate Coursera
 - Specialization: Agile Development Specialization Coursera
 - Product Ideation, Design, and Management Specialization
+- Google Project Management: Professional Certificate
+- User Interface Design Specialization
   
 
 ### 1.2 Introduction to AI and Machine Learning
@@ -107,6 +109,10 @@ This roadmap provides a structured path for beginners to learn AI Product Manage
 - Course: "Data Management and Data Systems" by University of Colorado on Coursera
 - DeepLearning.AI Data Engineering Professional Certificate
 - Google Data Analytics Professional Certificate
+- Data Ethics, AI, and Responsible Innovation
+- Ethics in the Age of AI Specialization
+- AI & Law
+- 
 
 ## 4. AI Development Process
 
