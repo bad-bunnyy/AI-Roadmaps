@@ -32,6 +32,7 @@ This roadmap provides a structured path for beginners to learn AI Product Manage
 **Resources:**
 - Book: "AI Crash Course" by Hadelin de Ponteves
 - Course: Coursera's "AI For Everyone" by Andrew Ng
+- IBM Machine Learning Professional Certificate
 - IBM AI Developer Professional Certificate Coursera
 - Machine Learning Specialization
 - Deep Learning Specialization
